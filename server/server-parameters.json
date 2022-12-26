@@ -1,0 +1,22 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "MideUdacityProject"
+	},
+	{
+		"ParameterKey": "Vpcid",
+		"ParameterValue": "vpc-0711db28cd229db56"
+	},
+	{
+		"ParameterKey": "imageid",
+		"ParameterValue": "ami-0574da719dca65348"
+	},
+	{
+		"ParameterKey": "PrivateSubnets",
+		"ParameterValue": "subnet-0b8baf6d0ee8eba77,subnet-01b753bd4ad1d0814"
+	},
+	{
+		"ParameterKey": "PublicSubnets",
+		"ParameterValue": "subnet-0e1f56af2b918d19c,subnet-0d99c8923cc6dbd49"
+	}
+]
